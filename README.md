@@ -1,6 +1,7 @@
 # Backend
 Backend - FLASK microservice application
 
+
 # Running
 Run `python app.py`. You can make `GET` and `POST` calls to `localhost:5001` or use the GUI provided by the Frontend service (It needs to be run parallel with the Backend application).
 
