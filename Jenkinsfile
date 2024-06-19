@@ -1,7 +1,7 @@
-def imageName='192.168.44.44:8082/docker-local/backend'
+def imageName='xurse9/panda-backend'
 def dockerTag=''
-def dockerRegistry='http://192.168.44.44:8082/'
-def registryCredentials='artifactory'
+def dockerRegistry=''
+def registryCredentials='dockerhub'
 
 pipeline {
     agent {
